@@ -20,6 +20,7 @@ Keymaps for keyboards using [QMK Firmware](https://github.com/qmk/qmk_firmware)
 | RGB TOG | Toggle RGB on/off                     |
 | BOOT    | Put into bootloader mode for flashing |
 | A       | Λ                                     |
+| E       | Æ                                     |
 | DEL     | MUTE                                  |
 | HOME    | END                                   |
 | PGUP    | VOL UP                                |
@@ -32,6 +33,7 @@ Keymaps for keyboards using [QMK Firmware](https://github.com/qmk/qmk_firmware)
 | T           | CTRL+ALT+T (Open Terminal)           |
 | P           | ALT+PSCR (Screenshot Focused Window) |
 | A           | λ                                    |
+| E           | æ                                    |
 | F           | ƒ                                    |
 | C           | 🄯                                    |
 | V           | ✓                                    |
